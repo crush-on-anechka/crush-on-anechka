@@ -1,1 +1,1 @@
-![alt text](header1.jpg)
+![alt text](header.jpg)
